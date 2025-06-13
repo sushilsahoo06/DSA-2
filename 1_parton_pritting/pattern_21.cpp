@@ -18,5 +18,18 @@ int main(){
     cout<<endl;
   }
   //////////////////////////////////////
-  
+  for(int i=1;i<=n;i++){
+    int space=n-i;
+    while(space>0){
+      cout<<" ";
+      space--;
+    }
+    int j=1;
+    while(j<=i){
+      cout<< i;
+      j++;
+    }
+    cout<<endl;
+  }
+
 }
