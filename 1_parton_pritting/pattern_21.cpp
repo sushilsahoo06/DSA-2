@@ -9,12 +9,14 @@ int main(){
       cout<<" ";
       j++;
     }
-    int star=n-i+1;
-    while(star>0){
-      cout<<"*";
-      star--;
+    int integer=n-i+1;
+    while (integer>0)
+    {
+      cout<<i;
+      integer--;
     }
     cout<<endl;
   }
-    
+  //////////////////////////////////////
+  
 }

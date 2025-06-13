@@ -6,7 +6,7 @@ int main(){
   for(int i=1;i<=n;i++){
     //space print 
     int space =n-i;
-    while(space){
+    while(space>0){
       cout<<" ";
       space=space-1;
     }
