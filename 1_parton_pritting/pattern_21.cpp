@@ -31,5 +31,21 @@ int main(){
     }
     cout<<endl;
   }
+  /////////////////////////////
+  int count =1;
+  for(int i=1;i<=n;i++){
+    int space=n-i;
+    while(space>0){
+      cout<<" ";
+      space--;
+    }
+    int j=1;
+    while(j<=i){
+      cout<< count<<" ";
+      count++;
+      j++;
+    }
+    cout<<endl;
+  }
 
 }
