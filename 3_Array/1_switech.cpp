@@ -21,9 +21,20 @@ int main(){
     break;
     case '*':cout<<"Multipication :"<<a*b;
     break;
-    case '%':cout<<"Modulus :"<<a%b;
+    case '%':
+      if(b==0 || a==0){
+        cout<<"Error : Modulus by zero is not allowed!"<<endl;
+        exit(1);
+      }
+    cout << "Modulus: " << a % b;  
     break;
-    case '/':cout<<"Divisions :"<<a/b;
+
+    case '/':
+      if(b==0 || a==0){
+        cout<<"Error : Division by zero is not allowed!"<<endl;
+        exit(1);
+      }
+    cout<<"Divisions :"<<a/b;
     break;
     default:cout<<"Invalid operators ";
     
