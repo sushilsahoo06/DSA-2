@@ -3,10 +3,10 @@
 using namespace std;
 
 int maximum(int n,int arr[]){
-  int max=INT_MIN;
+  int max=INT_MIN;// Step 1: Initialize to the smallest possible integer
   for(int i=0;i<n;i++){
-    if(max < arr[i]){
-      max=arr[i];
+    if(max < arr[i]){// Step 2: Compare each element
+      max=arr[i];// Step 3: Update max if current element is greater
     }
   }
   return max;
