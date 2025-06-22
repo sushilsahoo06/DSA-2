@@ -26,6 +26,9 @@ int main() {
     for(int i=0;i<n;i++){
       int element=arr[i];
       for(int j=0;j<k;j++){
+      if(element< brr[j]){
+        break;
+      }
         if(element==brr[j]){
           cout<<element<<" ";
         }
