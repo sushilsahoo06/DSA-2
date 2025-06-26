@@ -19,7 +19,7 @@ int main() {
     int brr[k];
     cout << "Enter the values of second array: ";
     for (int j = 0; j < k; j++) {
-      cin >> brr[j];  // ✅ Fixed this line
+      cin >> brr[j];
     }
 
 
