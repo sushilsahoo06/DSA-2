@@ -10,18 +10,25 @@ int main()
   string s;
   cin>>s;
 
-  int hash[26]={0};
+  // int hash[26]={0};//hash[256]={0}
+  // for(int i=0;i<s.size();i++){
+  //   hash[s[i]-'a']++;//hash[s[i]]
+  // }
+  map<char,int>map;
   for(int i=0;i<s.size();i++){
-    hash[s[i]-'a']++;
+    map[s[i]]++;
   }
-
+  for(auto it:map){
+    cout<<it.first<<"-->"<<it.second<<endl;
+  }
   int q;
   cin>>q;
   while (q--)
   {
     char r;
     cin>>r;
-    cout<<hash[r-'a']<<endl;
+    // cout<<hash[r-'a']<<endl;//cout<<hash[r]<<endl;
+    cout<<map[r]<<endl;
   }
   return 0;
 }
