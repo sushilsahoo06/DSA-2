@@ -14,7 +14,36 @@ void sorting_s(int arr[],int n){
     arr[i]=temp;
   }
 }
+void bubble_sort(int arr[],int n){
+  for(int i=n-1;i>=1;i--){
+    int didSwap=0;
+    for(int j=0;j<=i-1;j++){
+      if(arr[j]>arr[j+1]){
+        int temp=arr[j];
+        arr[j]=arr[j+1];
+        arr[j+1]=temp;
+        didSwap=1;
+      }
+    }
+    if (didSwap =0)
+    {
+      break;
+    }
+    
+  }
+}
 
+void insertern_sort(int arr[],int n){
+  for(int i=1;i<n;i++){
+    int j=i;
+    while(j>0 && arr[j-1] >arr[j]){
+      int temp=arr[j-1];
+      arr[j-1]=arr[j];
+      arr[j]=temp;
+      j--;
+    }
+  }
+}
 int main()
 {
 #ifndef ONLINE_JUDGE
@@ -26,7 +55,9 @@ int main()
   int arr[n];
   for(int i=0;i<n;i++) cin>>arr[i];
 
-  sorting_s(arr,n);
+  // sorting_s(arr,n);
+  // bubble_sort(arr,n);
+  insertern_sort(arr,n);
   for(int j=0;j<n;j++){
     cout<<arr[j]<<" ";
   }
