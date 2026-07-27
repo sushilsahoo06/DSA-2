@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sushilsahoo06/DSA-2/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
