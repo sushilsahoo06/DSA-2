@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sushilsahoo06/DSA-2/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sushilsahoo06/DSA-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sushilsahoo06/DSA-2/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sushilsahoo06/DSA-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sushilsahoo06/DSA-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sushilsahoo06/DSA-2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
