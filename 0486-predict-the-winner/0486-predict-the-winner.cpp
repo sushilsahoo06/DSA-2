@@ -1,22 +1,22 @@
 class Solution {
 public:
+    int t[23][23];
+    int predict(int i,int j,vector<int>& nums){
+        if(i > j) return 0;
+        if(i == j) return nums[i];
+        if(t[i][j] != -1) return t[i][j];
+
+        int take_i=nums[i] + min(predict(i+2,j,nums),predict(i+1,j-1,nums));
+        int take_j=nums[j] + min(predict(i+1,j-1,nums),predict(i,j-2,nums));
+        return t[i][j]=max(take_i,take_j);
+    }
     bool predictTheWinner(vector<int>& nums) {
-        int n = nums.size();
-        std::vector<int> dp(n, 0);
+        memset(t,-1,sizeof(t));
+        int n=nums.size();
+        int total=accumulate(nums.begin(),nums.end(),0);
+        int player_1=predict(0,n-1,nums);
+        int player_2=total - player_1;
 
-        // Base case: Subarray of length 1
-        for (int i = 0; i < n; ++i) {
-            dp[i] = nums[i];
-        }
-
-        // Build DP from subproblems of length 2 up to n
-        for (int len = 2; len <= n; ++len) {
-            for (int i = 0; i <= n - len; ++i) {
-                int j = i + len - 1;
-                dp[i] = std::max(nums[i] - dp[i + 1], nums[j] - dp[i]);
-            }
-        }
-
-        return dp[0] >= 0;
+        return player_1 >= player_2;
     }
 };
