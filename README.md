@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sushilsahoo06/DSA-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sushilsahoo06/DSA-2/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sushilsahoo06/DSA-2/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sushilsahoo06/DSA-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sushilsahoo06/DSA-2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sushilsahoo06/DSA-2/tree/master/2104-sum-of-subarray-ranges) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sushilsahoo06/DSA-2/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3903-smallest-stable-index-i) |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/3904-smallest-stable-index-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
