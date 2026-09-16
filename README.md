@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sushilsahoo06/DSA-2/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/sushilsahoo06/DSA-2/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sushilsahoo06/DSA-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sushilsahoo06/DSA-2/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sushilsahoo06/DSA-2/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sushilsahoo06/DSA-2/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
