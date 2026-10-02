@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sushilsahoo06/DSA-2/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sushilsahoo06/DSA-2/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sushilsahoo06/DSA-2/tree/master/0078-subsets) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
