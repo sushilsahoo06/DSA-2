@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2104-sum-of-subarray-ranges](https://github.com/sushilsahoo06/DSA-2/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
 | [0856-score-of-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
