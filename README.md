@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/sushilsahoo06/DSA-2/tree/master/3731-find-missing-elements) |
 ## Merge Sort
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/sushilsahoo06/DSA-2/tree/master/2104-sum-of-subarray-ranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sushilsahoo06/DSA-2/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3875-construct-uniform-parity-array-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
 |  |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
