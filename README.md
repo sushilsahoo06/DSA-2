@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/sushilsahoo06/DSA-2/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sushilsahoo06/DSA-2/tree/master/0836-rectangle-overlap) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sushilsahoo06/DSA-2/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sushilsahoo06/DSA-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sushilsahoo06/DSA-2/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
