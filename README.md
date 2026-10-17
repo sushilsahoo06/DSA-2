@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sushilsahoo06/DSA-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/sushilsahoo06/DSA-2/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sushilsahoo06/DSA-2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0503-next-greater-element-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/sushilsahoo06/DSA-2/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sushilsahoo06/DSA-2/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
