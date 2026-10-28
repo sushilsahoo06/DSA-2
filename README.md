@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sushilsahoo06/DSA-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sushilsahoo06/DSA-2/tree/master/0496-next-greater-element-i) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sushilsahoo06/DSA-2/tree/master/3731-find-missing-elements) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sushilsahoo06/DSA-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0234-palindrome-linked-list) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sushilsahoo06/DSA-2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/sushilsahoo06/DSA-2/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sushilsahoo06/DSA-2/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sushilsahoo06/DSA-2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sushilsahoo06/DSA-2/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/sushilsahoo06/DSA-2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sushilsahoo06/DSA-2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sushilsahoo06/DSA-2/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sushilsahoo06/DSA-2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sushilsahoo06/DSA-2/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/sushilsahoo06/DSA-2/tree/master/1406-stone-game-iii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sushilsahoo06/DSA-2/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
 | [0856-score-of-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3517-smallest-palindromic-rearrangement-i) |
