@@ -1,28 +1,21 @@
 class Solution {
 public:
-    int n;
-    typedef long long ll;
-    ll dp[1000001][2];//---> T / F for[2]
-
-    ll solve(int idx,vector<int>&nums, bool flag){
-        if(idx >= nums.size()) return 0;
-        if(dp[idx][flag] != -1){
-            return dp[idx][flag];
-        }
-
-        ll skip = solve(idx+1 , nums , flag);
-
-        int val=nums[idx];
-        if(flag == false){
-            val= -val;
-        }
-        ll take=solve(idx+1,nums,!flag) + val;
-
-        return dp[idx][flag]=max(take,skip);
-    }
     long long maxAlternatingSum(vector<int>& nums) {
-        n=nums.size();
-        memset(dp,-1,sizeof(dp));
-        return solve(0, nums, true);
+        int n = nums.size();
+        // dp[i][0]: max alternating sum ending with an even index (to be added)
+        // dp[i][1]: max alternating sum ending with an odd index (to be subtracted)
+        vector<vector<long long>> dp(n, vector<long long>(2, 0));
+        
+        dp[0][0] = nums[0]; // First element is always added
+        dp[0][1] = 0;       // Cannot have an odd-length subsequence with only 1 element
+        
+        for (int i = 1; i < n; i++) {
+        // If we choose nums[i] at an even position, we add it to the previous odd state
+            dp[i][0] = max(dp[i - 1][1] + nums[i], dp[i - 1][0]);
+            // If we choose nums[i] at an odd position, we subtract it from the previous even state
+            dp[i][1] = max(dp[i - 1][0] - nums[i], dp[i - 1][1]);
+        }
+        
+        return max(dp[n - 1][0], dp[n - 1][1]);
     }
 };
