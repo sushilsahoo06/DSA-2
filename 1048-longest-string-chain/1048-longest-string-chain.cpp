@@ -1,30 +1,53 @@
 class Solution {
 public:
-    int longestStrChain(vector<string>& words) {
-        // Sort the words by their lengths in ascending order
-        sort(words.begin(), words.end(), [](const string& a, const string& b) {
-            return a.length() < b.length();
-        });
+    int n;
+    int memo[1001][1002]; // memoization table (prev is shifted by +1, so -1 becomes 0)
 
-        unordered_map<string, int> dp;
-        int maxChain = 1;
+    static bool myfunctions(const string &w1, const string &w2) {
+        return w1.length() < w2.length();
+    }
+    
+    bool isPred(const string &curr, const string &prev){
+        int m = curr.length();
+        int len = prev.length();
 
-        for (const string& word : words) {
-            int currentLength = 1;
-            
-            // Try removing each character one by one to find predecessors
-            for (int i = 0; i < word.length(); ++i) {
-                string predecessor = word.substr(0, i) + word.substr(i + 1);
-                
-                if (dp.count(predecessor)) {
-                    currentLength = max(currentLength, dp[predecessor] + 1);
-                }
+        if(len >= m || m - len != 1) return false;
+
+        int i = 0, j = 0;
+        while(i < m && j < len){
+            if(prev[j] == curr[i]){
+                j++;
             }
-            
-            dp[word] = currentLength;
-            maxChain = max(maxChain, currentLength);
+            i++;
         }
-
-        return maxChain;
+        return (j == len);
+    }
+    
+    int solve(int curr, int prev, vector<string>& word) {
+        if(curr == n) return 0;
+        
+        // Memoization check (prev + 1 to handle -1 index)
+        if(memo[curr][prev + 1] != -1) {
+            return memo[curr][prev + 1];
+        }
+        
+        int take_idx = 0;
+        // Option 1: Try to take the current word if it's a valid successor to `prev`
+        if(prev == -1 || isPred(word[curr], word[prev])) {
+            take_idx = 1 + solve(curr + 1, curr, word);
+        }
+        
+        // Option 2: Skip the current word
+        int skip_idx = solve(curr + 1, prev, word);
+        
+        return memo[curr][prev + 1] = max(take_idx, skip_idx);
+    }
+    
+    int longestStrChain(vector<string>& words) {
+        n = words.size();
+        sort(begin(words), end(words), myfunctions);
+        
+        memset(memo, -1, sizeof(memo));
+        return solve(0, -1, words);
     }
 };
