@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sushilsahoo06/DSA-2/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sushilsahoo06/DSA-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
+| [0119-pascals-triangle-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/sushilsahoo06/DSA-2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sushilsahoo06/DSA-2/tree/master/0300-longest-increasing-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sushilsahoo06/DSA-2/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sushilsahoo06/DSA-2/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sushilsahoo06/DSA-2/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/sushilsahoo06/DSA-2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sushilsahoo06/DSA-2/tree/master/0300-longest-increasing-subsequence) |
