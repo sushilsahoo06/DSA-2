@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
 | [1406-stone-game-iii](https://github.com/sushilsahoo06/DSA-2/tree/master/1406-stone-game-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sushilsahoo06/DSA-2/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sushilsahoo06/DSA-2/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sushilsahoo06/DSA-2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sushilsahoo06/DSA-2/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [3903-smallest-stable-index-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sushilsahoo06/DSA-2/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
