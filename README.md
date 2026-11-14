@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sushilsahoo06/DSA-2/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sushilsahoo06/DSA-2/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/sushilsahoo06/DSA-2/tree/master/1092-shortest-common-supersequence) |
 | [1406-stone-game-iii](https://github.com/sushilsahoo06/DSA-2/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/sushilsahoo06/DSA-2/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/sushilsahoo06/DSA-2/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/sushilsahoo06/DSA-2/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sushilsahoo06/DSA-2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/sushilsahoo06/DSA-2/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/sushilsahoo06/DSA-2/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sushilsahoo06/DSA-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sushilsahoo06/DSA-2/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sushilsahoo06/DSA-2/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/sushilsahoo06/DSA-2/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
